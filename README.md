@@ -9,3 +9,8 @@ repository ini merupakan repositori untuk webservice server. layanan service yan
   <li>Get Data Book: <a href="http://moviecloud.ga/webservice/apiservice/Userbookdata/lastbook/"> moviecloud.ga/webservice/apiservice/Userbookdata/lastbook/</a></li>
   <li>Get ALL User: <a href="http://moviecloud.ga/webservice/apiservice/Userbookdata/lastbook/"> moviecloud.ga/webservice/apiservice/Userbookdata/lastbook/</a></li>
 </ul>
+
+
+# Contoh Code
+
+contoh code REST API server CI dapat dilihat pada link berikut : <a href='https://github.com/kalvinkrishna/RestWebService/blob/master/application/controllers/apiservice/Userbookdata.php'>Contoh<a>
